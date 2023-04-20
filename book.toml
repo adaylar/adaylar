@@ -1,0 +1,11 @@
+[book]
+authors = ["Adaylar.org"]
+language = "tr"
+multilingual = false
+src = "src"
+title = "Adaylar"
+description = "Seçim Adaylarını Burada Öğrenin"
+
+[output.html]
+git-repository-url = "https://github.com/adaylar/adaylar"
+cname = "adaylar.org"
