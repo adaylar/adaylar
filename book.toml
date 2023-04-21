@@ -9,3 +9,4 @@ description = "Seçim Adaylarını Burada Öğrenin"
 [output.html]
 git-repository-url = "https://github.com/adaylar/adaylar"
 cname = "adaylar.org"
+additional-css = ["css/table.css"]
