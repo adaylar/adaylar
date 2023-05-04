@@ -25,6 +25,8 @@
   - [Bolu](./23GS/14.md)
   - [Burdur](./23GS/15.md)
   - [Bursa](./23GS/16.md)
+    - [Bursa 1. Bölge](./23GS/161.md)
+    - [Bursa 2. Bölge](./23GS/162.md)
   - [Çanakkale](./23GS/17.md)
   - [Çankırı](./23GS/18.md)
   - [Çorum](./23GS/19.md)
