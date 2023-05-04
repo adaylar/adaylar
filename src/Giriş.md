@@ -10,6 +10,7 @@ Adaylar.org'a hoş geldiniz. Bu sayfada,
 # Kullanım
 
 * Sol taraftaki menüden seçim ismini tıklayarak genel bilgiler alabilirsiniz.
+    * Mobilden giriyorsanız sol üstteki üç çizgi düğmesini tıklayarak menüyü gösterebilirsiniz.
 * Sol taraftaki menünün trafik kodu sıralı listesinden bölgenizi seçerek pusulanızı görebilirsiniz.
 * Pusulanızın tamamını sağa/sola kaydırarak inceleyebilirsiniz. 
 * İsmini bildiğiniz bir kişinin adaylık durumunu öğrenmek için yukarıdaki büyüteç logosunu tıklayarak arama fonksiyonuna ulaşabilirsiniz.
